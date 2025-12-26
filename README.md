@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Leo 👋
 
-<!--
-**leoapplecool/leoapplecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building quality‑of‑life tools that make life easier, smoother, and more automated.  
+My favorite language is **Python**, and I’m especially into creating Discord automations and helpful bots.
 
-Here are some ideas to get you started:
+**Interests**
+- Discord automation and bots  
+- Practical QoL tools  
+- Clean, reliable automation  
+- Python scripting and tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I enjoy**
+- Turning repetitive tasks into one‑click workflows  
+- Writing small tools that save time for everyone  
+- Making systems easier to use without extra effort
