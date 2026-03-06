@@ -13,3 +13,10 @@ My favorite language is **Python**, and I’m especially into creating Discord a
 - Turning repetitive tasks into one‑click workflows  
 - Writing small tools that save time for everyone  
 - Making systems easier to use without extra effort
+
+ ____   _____ __     __
+|  _ \ | ____|\ \   / /
+| | | ||  _|   \ \ / / 
+| |_| || |___   \ V /  
+|____/ |_____|   \_/   
+                       
