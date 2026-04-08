@@ -14,6 +14,8 @@ My favorite language is **Python**, and I’m especially into creating Discord a
 - Writing small tools that save time for everyone  
 - Making systems easier to use without extra effort
 
-## --------------------------------------------------------------------------------------------------------------------
+
+
+
 
 # 9/27 Public Repositorys
